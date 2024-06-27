@@ -1,0 +1,13 @@
+header {
+  height: 10vh;
+  background-color: #19191a;
+  color: #fff;
+  z-index: 999;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.logo img {
+  width: 50px;
+  filter: invert();
+}
